@@ -6,15 +6,15 @@ An interactive **Power BI dashboard** built to analyze workforce demographics, c
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive_Overview](Screenshots/Executive_Overview.png)
 
 ### Employee Compensation & Salary Analysis
 
-![Compensation Analysis](Screenshots/Compensation_Analysis.png)
+![Compensation_Analysis](Screenshots/Compensation_Analysis.png)
 
 ### Workforce Analysis
 
-![Workforce Analysis](Screenshots/Workforce_Analysis.png)
+![Workforce_Analysis](Screenshots/Workforce_Analysis.png)
 
 ## Project Overview
 
